@@ -1,4 +1,4 @@
-#App#
+#App
 https://atonb6.github.io/SimpleReactTodo/
 
 ## Getting Started with Create React App
